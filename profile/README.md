@@ -10,5 +10,5 @@ Organización de GitHub para los desarrollos de [retarget.cl](`https://www.retar
 3. [Picasso Demo](https://github.com/RetargetDev/picasso-demo)📓
 4. [Picasso Telegram](https://github.com/RetargetDev/picasso-telegram)🤖
 
-## Documentaciónes
+## Documentaciones
 1. [Proyecto Picasso](https://github.com/RetargetDev/picasso-docs) 🎨
